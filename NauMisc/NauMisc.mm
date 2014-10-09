@@ -1,6 +1,5 @@
 //
 //  NauMisc.cpp
-//  dar
 //
 //  Created by nausea on 6/24/14.
 //
